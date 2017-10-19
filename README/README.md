@@ -1,4 +1,4 @@
-#Posicionando cajas
+# Posicionando cajas
 
 Para realizar el ejercicio se utilizo la propiedad ***Positioning***.
 
