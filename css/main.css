@@ -3,7 +3,7 @@
   height: 500px;
   width: 500px;
   margin-bottom: 20px;
-
+  position: relative;
 }
 
 .elemento {
@@ -11,14 +11,15 @@
   height: 250px;
   width: 250px;
   position: absolute;
-  top: 180px;
-  left: 130px;
+  top: 125px;
+  left: 125px;
 }
 
 .subelemento {
   background-color:yellow;
   height: 150px;
   width: 150px;
+  position: relative;
 }
 
 
@@ -27,12 +28,14 @@
   height: 500px;
   width: 500px;
   margin-bottom: 20px;
+  position: relative;
 }
 
 .elemento1 {
   background-color:black;
   height: 130px;
   width: 130px;
+  position: relative;
 }
 
 .elemento2 {
